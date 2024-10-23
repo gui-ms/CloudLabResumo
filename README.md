@@ -12,3 +12,7 @@ Iniciamos revisando o conceito de SLA e vendo ele na prática. SLA ou Service Le
  - Geográfica;
  - De Zona;
  - De Zona Geográfica;
+
+# Resumo do Laboratório 3: (Configurando uma instância de DB na Azure)
+
+Iniciamos essa aula novamente na seção de criação de máquina virtual, onde vimos o funcionamento do método "pay as you go" que já mostra o valor cobrado por mês do tipo de serviço que selecionamos. Também é feita uma rápida análise da seções de disco, gerenciamento, redes, e monitoramento da máquina virtual, para ter uma ideia de tudo que é necessário fazer para criar uma máquina virtual com sucesso. Após isso seguimos para a análise do recurso de Banco de dados SQL, onde nos é mostrado os passos necessários para a criação do banco de dados, incluindo o servidor que pode ser criado do zero.
